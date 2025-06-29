@@ -1,7 +1,7 @@
 Unique To-Do List Web App
 
 > **Internship Final Project @ Vaultofcodes+** 
-> Developed by: [Your Name Here]
+> Developed by:  Kashish Bunker
 
 ---
 
